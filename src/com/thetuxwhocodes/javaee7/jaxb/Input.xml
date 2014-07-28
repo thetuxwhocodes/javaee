@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <id>2</id>
+    <name>Saurav</name>
+    <nickNames>
+        <nickNames>Dada</nickNames>
+        <nickNames>Prince</nickNames>
+    </nickNames>
+</employee>
